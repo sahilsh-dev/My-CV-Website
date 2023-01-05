@@ -51,7 +51,7 @@ a:hover {
 }
 
 .skill-row {
-    margin: 50px auto 100px auto;
+    margin: 50px auto 130px auto;
     width: 50%;
     text-align: left;
     line-height: 2;
@@ -135,13 +135,3 @@ hr{
     font-size: 0.75rem;
     padding: 20px 0 0;
 }
-
-/*
-.coding-skill-description {
-    clear: left;
-}
-
-.design-skill-description {
-    clear: right;
-}
-*/
